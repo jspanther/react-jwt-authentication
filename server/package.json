@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "express": "^4.17.1",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jsonwebtoken": "^8.2.2",
     "mongoose": "^5.8.3",
     "nodemon": "^2.0.2",
