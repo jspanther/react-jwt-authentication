@@ -9,7 +9,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "antd": "^3.26.6",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "formik": "^1.5.2",
     "history": "^4.9.0",
     "material-ui-icons": "^1.0.0-beta.36",
